@@ -1,0 +1,4 @@
+Jinja2==2.10
+lizard==1.15.6
+MarkupSafe==1.1.0
+virtualenv==16.1.0
